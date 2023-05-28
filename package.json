@@ -1,0 +1,23 @@
+{
+  "name": "rest-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurKova/rest-lesson.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "homepage": "https://github.com/ArthurKova/rest-lesson",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-handlebars-precompile": "^1.0.2",
+    "parcel-plugin-nuke-dist": "^1.0.1"
+  },
+  "dependencies": {}
+}
